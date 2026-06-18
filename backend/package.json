@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "start": "node server.js",
-   "lint": "eslint .",
-   "test": "jest"
-
+    "start": "node server.js",
+    "lint": "eslint .",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
